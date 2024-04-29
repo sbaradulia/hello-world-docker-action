@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE editions
-        SYSTEM "https://resources.jetbrains.com/writerside/1.0/resources.dtd">
-
-<resources>
-    <resource id="xls" file="file_example_XLS_50.xls"/>
-</resources>

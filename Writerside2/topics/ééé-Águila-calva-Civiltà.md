@@ -1,3 +1,0 @@
-# &#233;&#233;&#233; &#193;guila_calva Civilt&#224;
-
-Start typing here...
